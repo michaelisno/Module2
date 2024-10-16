@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grading", "Grading\Grading.vcxproj", "{0BD66DF7-3146-4DD0-A57A-E5365D8964C8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextAdventureGame", "TextAdventureGame\TextAdventureGame.vcxproj", "{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{0BD66DF7-3146-4DD0-A57A-E5365D8964C8}.Release|x64.Build.0 = Release|x64
 		{0BD66DF7-3146-4DD0-A57A-E5365D8964C8}.Release|x86.ActiveCfg = Release|Win32
 		{0BD66DF7-3146-4DD0-A57A-E5365D8964C8}.Release|x86.Build.0 = Release|Win32
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Debug|x64.ActiveCfg = Debug|x64
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Debug|x64.Build.0 = Debug|x64
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Debug|x86.Build.0 = Debug|Win32
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Release|x64.ActiveCfg = Release|x64
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Release|x64.Build.0 = Release|x64
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Release|x86.ActiveCfg = Release|Win32
+		{C09DD6A6-9DD3-48FB-8098-606BADFC73D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
